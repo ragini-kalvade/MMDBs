@@ -5,7 +5,7 @@ This repository contains materials related to the research project *"Unifying th
 
 ## Contents
 - [Research Paper](https://github.com/ragini-kalvade/MMDBs/blob/main/Unifying%20the%20Data%20An%20Analysis%20of%20Multi-Model%20Databases.pdf) :  Detailed analysis of MMDBs, including their benefits, implementation challenges, and trade-offs.
-- [Video Summary](https://drive.google.com/drive/folders/1Sayv2_3JNnnQ7E7rDRXOobLj_A_QsNgG?usp=sharing) : A brief video summarizing the paper and its findings can be found [here](#). The video is approximately 1.5-2 minutes long and highlights the core aspects of the research.
+- [Video Summary](https://drive.google.com/drive/folders/1Sayv2_3JNnnQ7E7rDRXOobLj_A_QsNgG?usp=sharing) : A brief video summarizing the paper and its findings can be found [here](https://drive.google.com/drive/folders/1Sayv2_3JNnnQ7E7rDRXOobLj_A_QsNgG?usp=sharing). The video is approximately 1.5-2 minutes long and highlights the core aspects of the research.
 
 ## Key Highlights
 - **What are Multi-Model Databases?** MMDBs integrate multiple data models (e.g., relational, document, key-value) within a single database system, making them versatile for diverse use cases.
